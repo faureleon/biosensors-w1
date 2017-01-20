@@ -1,0 +1,14 @@
+Here are the data collected by installing a photoresistance into an empty seringe in the black boxes.
+All these datas are unique, calculating the average would be useless.
+The device is stable.
+
+Exemple:
+
+"Intensity of the light","
+
+Datas:
+
+255,180
+191,160
+127,127
+64,86
