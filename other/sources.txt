@@ -1,52 +1,26 @@
-http://rabida.uhu.es/dspace/bitstream/handle/10272/2806/Productivity%20of%20Chlorella%20sorokiniana.pdf?sequence=1 Article qui pend chlorella sorokiana comme strain de référence : A LIRE 
-→ high specific growth rate, 0.27 h-1 and its tolerance to high irradiance, high temperature and high CO2 concentrations
-
-Info générales sur Chlorella
-http://www.algaebase.org/search/species/detail/?species_id=51508 
-
-Thèse avec une autre sorte de Chlorella http://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1002&context=bae_etds 
-
-Growth rate according to hetero/autotrophic conditions http://ac.els-cdn.com/S0960852413009875/1-s2.0-S0960852413009875-main.pdf?_tid=03462160-dcb6-11e6-ab18-00000aacb35d&acdnat=1484658678_958d4961cc54a0f8b18f4201b06b1c78 
-→ Plus d’un jour
-
-Caractéristiques de Chlorella avec article scientifique : http://www.sciencedirect.com/science/article/pii/S0960852413009875
-
-Page de la FAO sur la croissance algale :
-http://www.fao.org/docrep/003/W3732E/w3732e06.htm#b12-2.3.1.2.%20Light
-
-Forum de Researh Gate pour la mesure de l’OD sur les microalgues :
-https://www.researchgate.net/post/At_what_wavelength_should_I_measure_the_optical_density_of_chlorella_vulgaris
-
-Article scientifique sur l’effet de la lumière sur la croissance algale :
-http://www.iaeng.org/publication/WCE2012/WCE2012_pp608-610.pdf
-
-Les différents rendements des couleurs de LED http://www.culture-hydroponique.com/lampe-HPS.htm 
-
-Cycles jour/nuit
-http://web.mit.edu/~pweigele/www/AlgalFuel/Janssen%20thesis%20-%20cultivatio.pdf
-
-Replication de la Spirulina platensis 
-https://www.ncbi.nlm.nih.gov/pubmed/18386494 
-
-Make intensity of leds vary with arduino
+Adjusting Brightness | All About LEDs | Adafruit Learning System.â€ Accessed January 20, 2017. 
 https://learn.adafruit.com/all-about-leds/adjusting-brightness
 
-Conversion µmol.m⁻².s⁻¹ (ppf) → LUX : Multiplier par 54
-http://www.mesurez.com/conversion-ppf-mol-lux.html
-
-Conversion Candela - Lux :
+Candela to Lux (Lx) Conversion Calculator. Accessed January 20, 2017. 
 http://www.rapidtables.com/calc/light/candela-to-lux-calculator.htm
 
-Fiche technique de Egeria densa : 
-http://www.centrederessources-loirenature.com/mediatheque/especes_inva/fiches_FCBN/Fiche%20-%20egeria-densa-sr.pdf 
+Conversion Des PPF (ÂµMOL M-2 S-1) En Lux. Accessed January 20, 2017. 
+http://www.mesurez.com/conversion-ppf-mol-lux.html
 
-ARDUINO : 
+Fiche - Egeria-Densa-Sr.pdf. Accessed January 20, 2017. 
+http://www.centrederessources-loirenature.com/mediatheque/especes_inva/fiches_FCBN/Fiche%20-%20egeria-densa-sr.pdf
 
-Montage de base une LED + Résistance
-http://letmeknow.fr/blog/2013/08/06/allumer-une-led/ 
+Snapshot. Accessed January 20, 2017. 
+http://www.projetsdiy.fr/led-allumer-intensite-rgb-arduino/#.WIHROHXhBNx
 
-Montage une LED + résistance 
-http://eskimon.fr/91-arduino-201-notre-premier-programme 
+Measure Light Intensity Using Light Dependent Resistor (LDR). Accessed January 20, 2017. 
+http://emant.com/316002.page
 
-Valeur des LED selon intensité  → AnalogWrite()
-http://www.projetsdiy.fr/led-allumer-intensite-rgb-arduino/#.WIB-rkKLcWw 
+Notre Premier Programme! - Tuto Arduino. Le Blog d'Eskimon, December 10, 2013. 
+http://eskimon.fr/91-arduino-201-notre-premier-programme
+
+admin. [Tuto] Allumer Une LED. Letmeknow, August 6, 2013. 
+http://letmeknow.fr/blog/2013/08/06/allumer-une-led/
+
+Rascio, N., Mariani, P., Tommasini, E. et al. Planta (1991) 185: 297. doi:10.1007/BF00201047
+http://link.springer.com/article/10.1007/BF00201047
